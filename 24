@@ -1,0 +1,21 @@
+"magisk": {
+
+    "version": "Modded by : amandeep 😎💪",
+
+    "versionCode": "27",
+
+    "link": "https://github.com/amandeep79199/magisk-24/raw/main/Magisk_24.3.apk",
+
+    "note": "https://github.com/amandeep79199/magisk-24"
+
+  },
+
+  "stub": {
+
+    "versionCode": "27",
+
+    "link": "https://github.com/amandeep79199/magisk-24/raw/main/Magisk_24.3.apk"
+
+  }
+
+}
