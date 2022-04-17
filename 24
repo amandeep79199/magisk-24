@@ -1,12 +1,14 @@
-"magisk": {
+{
+
+  "magisk": {
 
     "version": "Modded by : amandeep 😎💪",
 
-    "versionCode": "27",
+    "versionCode": "24",
 
-    "link": "https://github.com/amandeep79199/magisk-24/raw/main/Magisk_24.3.apk",
+    "link": "https://raw.githubusercontent.com/amandeep79199/magisk-24/main/Magisk_24.3.apk",
 
-    "note": "https://raw.githubusercontent.com/amandeep79199/magisk-24/main/24"
+    "note": "https://github.com/amandeep79199/magisk-24/blob/main/24"
 
   },
 
@@ -14,7 +16,7 @@
 
     "versionCode": "27",
 
-    "link": "https://github.com/amandeep79199/magisk-24/raw/main/Magisk_24.3.apk"
+    "link": "https://github.com/topjohnwu/Magisk/releases/download/v24.3/stub-release.apk"
 
   }
 
